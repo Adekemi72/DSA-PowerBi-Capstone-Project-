@@ -22,7 +22,7 @@ Average Salary: 73.91k
 Maximum Salary: 120k
 Total Salary Payout: $68.48 m
 
-Regulatory Non-Compliance:
+#### Regulatory Non-Compliance:
 A new policy mandates a minimum salary of $90,000 for all manufacturing employees. However, Palmoria currently falls short, with a minimum of $28,000 and an average salary of $73,910.
 
 ---
