@@ -15,14 +15,16 @@ Gender Distribution:
 Male: 465
 Female: 434
 Not disclosed: 41
+
 ---
+
 ### 2. Salary Structure
 Minimum Salary: 28k
 Average Salary: 73.91k
 Maximum Salary: 120k
 Total Salary Payout: $68.48 m
 
-#### Regulatory Non-Compliance:
+Regulatory Non-Compliance:
 A new policy mandates a minimum salary of $90,000 for all manufacturing employees. However, Palmoria currently falls short, with a minimum of $28,000 and an average salary of $73,910.
 
 ---
@@ -34,7 +36,9 @@ Departments such as Services, Business, Humanitarian service are female-dominate
 
 Regional Gender Spread:
 Across all three regions, males have the highest representation.
+
 ---
+
 ### 4. Employee Performance Ranking by Gender
 Very Poor	-Male
 Poor-	Male
@@ -62,3 +66,5 @@ There are 41 records without gender information. Data cleansing is recommended t
 
 ---
 ### The Visualization 
+![the charts and slicers](DSA.JPG)
+ ![the tables](DSA3.JPG)
