@@ -10,10 +10,10 @@ Employee Salary & Gender Distribution Analysis Report
 This report provides an overview of Palmoria’s employee data with a focus on salary structure, gender balance, departmental and regional insights, and regulatory compliance.
 
 ### 1. General Overview
-Total Number of Employees: 940
+Total Number of Employees: 940,
 Gender Distribution:
-Male: 465
-Female: 434
+Male: 465, 
+Female: 434, 
 Not disclosed: 41
 
 ---
