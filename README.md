@@ -4,9 +4,7 @@ This is my PowerBi Capstone Project for Digital Skillup Africa 2025 where i anal
 ## The instructions 
 ![The given instructions](1754210103851.jpg)
 
-#The analysis and the insight & Recommendation 
-Employee Salary & Gender Distribution Analysis Report
-
+# The analysis and the insight & Recommendation 
 This report provides an overview of Palmoria’s employee data with a focus on salary structure, gender balance, departmental and regional insights, and regulatory compliance.
 
 ### 1. General Overview
