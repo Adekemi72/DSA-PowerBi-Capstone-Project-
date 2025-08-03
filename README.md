@@ -52,16 +52,16 @@ This breakdown suggests that while males dominate in lower and mid performance l
 ---
 
 ### 5. Key Insights & Recommendations
-Regulatory Compliance:
+- Regulatory Compliance:
 Immediate review of salary structure is necessary to align with the $90,000 minimum salary regulation.
 
-Gender Pay Gap:
+- Gender Pay Gap:
 Male employees consistently earn more, even in some female-dominated departments and with the good performance of the female. A gender pay review is recommended.
 
-Performance Management:
+- Performance Management:
 Males dominate the "Average" and "Poor" categories, while females perform strongly under "Good" and "Very Good". This suggests the potential benefit of performance development programs targeted by department and gender.
 
-Undisclosed Gender Records:
+- Undisclosed Gender Records:
 There are 41 records without gender information. Data cleansing is recommended to ensure accuracy in future reporting.
 
 ---
